@@ -1,12 +1,12 @@
 # PBI-Road-Accident-
 
 Table of Contents
-Introduction
-Dashboard Requirements
-Installation / Usage
-DAX Formulas Used in Measures
-Bug / Feature Request
-Authors
+Introduction<br>
+Dashboard Requirements<br>
+Installation / Usage<br>
+DAX Formulas Used in Measures<br>
+Bug / Feature Request<br>
+Authors<br>
 
 Introduction
 This Power BI report provides a detailed analysis of road accident data in the United Kingdom. It presents key insights related to total casualties, accident types, vehicle involvement, and location-based trends. 
