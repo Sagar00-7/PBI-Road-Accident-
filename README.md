@@ -8,12 +8,12 @@ DAX Formulas Used in Measures<br>
 Bug / Feature Request<br>
 Authors<br>
 
-Introduction
-This Power BI report provides a detailed analysis of road accident data in the United Kingdom. It presents key insights related to total casualties, accident types, vehicle involvement, and location-based trends. 
-The dataset can be accessed from this link: UK Road Accident Dataset (Google Sheets)
-The dashboard supports quick identification of critical risk factors and high-impact areas for road safety improvements.
+Introduction<br>
+This Power BI report provides a detailed analysis of road accident data in the United Kingdom. It presents key insights related to total casualties, accident types, vehicle involvement, and location-based trends.<br> 
+The dataset can be accessed from this link: UK Road Accident Dataset (Google Sheets).<br>
+The dashboard supports quick identification of critical risk factors and high-impact areas for road safety improvements.<br>
 
-Dashboard Requirements
+Dashboard Requirements<br>
 Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
 Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY Growth
 Secondary KPI's - Total Casualties with respect to Vehicle Type for Current Year
